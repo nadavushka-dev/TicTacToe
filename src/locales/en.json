@@ -1,0 +1,23 @@
+{
+  "header": {
+    "title": "TIC TAC TOE"
+  },
+  "footer": {
+    "createdBy": "Created by Nadavushka"
+  },
+  "game": {
+    "winningCount": {
+      "player": "Player: {{count}}",
+      "computer": "Computer: {{count}}"
+    },
+    "gameStates": {
+      "winner": "You win",
+      "looser": "You loose",
+      "gameOver": "Game Over",
+      "won": "{{winner}} Won"
+    },
+    "options": {
+      "restart": "Restart"
+    }
+  }
+}
